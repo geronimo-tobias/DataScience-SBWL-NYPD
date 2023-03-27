@@ -12,8 +12,8 @@
     117,
     118
    ],
-   "current": true,
-   "description": "Junior Senator for Washington",
+   "current" true,
+   "description" "Junior Senator for Washington",
    "district": null,
    "enddate": "2025-01-03",
    "extra": {
@@ -24,7 +24,7 @@
    },
    "leadership_title": null,
    "party": "Democrat",
-   "person": {
+   "person": 
     "bioguideid": "C000127",
     "birthday": "1958-10-13",
     "cspanid": 26137,
@@ -46,7 +46,7 @@
    },
    "phone": "202-224-3441",
    "role_type": "senator",
-   "role_type_label": "Senator",
+   "role_type_label": "Senator"
    "senator_class": "class1",
    "senator_class_label": "Class 1",
    "senator_rank": "junior",
