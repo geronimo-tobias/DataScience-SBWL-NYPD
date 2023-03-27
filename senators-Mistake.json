@@ -12,8 +12,8 @@
     117,
     118
    ],
-   "current" true,
-   "description" "Junior Senator for Washington",
+   "current"; true,
+   "description"; "Junior Senator for Washington",
    "district": null,
    "enddate": "2025-01-03",
    "extra": {
