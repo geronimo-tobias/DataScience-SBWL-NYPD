@@ -1,8 +1,8 @@
 [
   {
     "Complaint Year Number": 2019,
-    "Month Number": 3,
-    "Record Create Date": "03.10.2019",
+    "Month Number"; 3,
+    "Record Create Date"; "03.10.2019",
     "Complaint Precinct Code": 48,
     "County": "BRONX",
     "Law Code Category Description": "MISDEMEANOR",
@@ -12,7 +12,7 @@
     "Arrest Date": "03.09.2019",
     "": ""
   },
-  {
+  
     "Complaint Year Number": 2020,
     "Month Number": 3,
     "Record Create Date": "03/28/2020",
@@ -34,7 +34,7 @@
     "Law Code Category Description": "FELONY",
     "Offense Description": "FELONY ASSAULT",
     "Bias Motive Description": "ANTI-ASIAN",
-    "Offense Category": "Race/Color",
+    "Offense Category": "Race/Color"
     "Arrest Date": "03/28/2020",
     "": ""
   },
